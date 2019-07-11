@@ -1,0 +1,193 @@
+body {
+    background-color: #eeffee;
+    max-width: 100%;}
+
+.navstyle {
+    background-color: #aabbff;
+    margin-left: 5%;}
+
+.navloc {
+    position: relative;
+    margin-left: auto;
+    padding-left: 0.5rem;}
+
+.navsize {
+    height: 3rem;
+    width: 100%;}
+
+.nameloc {
+    margin-left: 1%;
+    min-width: 30%;
+    max-width: 70%;
+    min-height: 1rem;
+    height: 0.1rem;
+    margin-bottom: 1.5rem;}
+
+.buttonloc {
+    position: relative;
+    margin-left: 90%;
+    margin-bottom: 0;}
+
+.sbar {
+    position: absolute;
+    min-width: 10%;
+    width: 30%;
+    left: 70%;
+    margin-left: 1%;}
+
+.imgmodal {
+    margin-left: 20%;}
+
+.logosize {
+    height: 40px;
+    width: 40px;}
+
+.logosize2 {
+    position: relative;
+    height: 10rem;
+    width: 10rem;
+    top: 2.5rem;
+    margin-left: 36%;}
+
+.imgsize {
+    position: relative;
+    height: 30rem;
+    width: 100%;}
+
+.h1 {
+    position: relative;
+    text-align: center;
+    font-size: 2rem;
+    top: 2rem;
+    margin-top: 1rem;}
+
+.border1 {
+    border: 5px solid #aabbff;}
+
+.border2 {
+    min-width: 7rem;
+    border: 2px solid black;
+    border-left: 5px solid #aabbff;}
+
+.border3 {
+    min-width: 10rem;
+    border: 2px solid black;
+    border-right: 5px solid #aabbff;}
+
+.border4 {
+    border: 2px solid black;
+    border-left: 5px solid #aabbff;
+    border-bottom: 5px solid #aabbff;}
+
+.border5 {
+    border: 2px solid black;
+    border-right: 5px solid #aabbff;
+    border-bottom: 5px solid #aabbff;}
+
+.p1 {
+    margin: 5px;}
+
+.p2 {
+    text-align: left;
+    height: 6rem;
+    margin-left: 15%;
+    font-size: 1.1rem;
+    min-width: 10rem;
+    max-width: 25rem;}
+
+.p3 {
+    text-align: center;
+    height: 5rem;
+    font-size: 0.85rem;
+    min-width: 30rem;
+    max-width: 100rem;}
+
+.c1 {
+    color: #aabbff;
+    font-size: 2rem;}
+
+.c2 {
+    background-color: grey;
+    margin: 10px;}
+
+.detailsloc {
+    position: relative;
+    bottom: 0.1rem;}
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;}
+
+        @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;}}
+
+.container1 {
+    position: relative;
+    width: 100%;
+    top: 4rem;}
+
+.container2 {
+    position: relative;
+    margin-top: 15%;
+    margin-bottom: 3%;}
+
+.container3 {
+    position: relative;
+    top: 3rem;
+    max-width: 92%;}
+
+.container4 {
+    position: relative;}
+
+.box1 {
+    width: 100%;
+    height: 100px;
+    min-height: 70px;}
+
+.bar1 {
+    position: relative;
+    height: 0.14rem;
+    max-width: 87rem;
+    margin: 2rem;
+    left: 2.3rem;
+    border: 1px solid black;
+    top: 2rem;}
+
+.test {
+    background-color: black;}
+
+.accordion {
+  background-color: #aabbff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 70%;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;}
+
+.active, .accordion:hover {
+  background-color: #ddddff; }
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;}
+
+.list1 {
+    position: relative;
+    list-style-type: none;
+    top: 3rem;
+    text-align: left;
+    margin-left: 30%;}

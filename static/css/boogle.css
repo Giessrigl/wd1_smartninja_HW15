@@ -1,0 +1,62 @@
+.center-them {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+#scale {
+    height: 70px;
+    width: 70px;}
+
+.text {
+    text-align: center;}
+
+p.p1 {
+    font-size: 30px;
+    font-family: verdana;
+    color: #555555;}
+
+p.p2 {
+    font-size: 14px;
+    font-family: verdana;
+    color: #777777;}
+
+.login {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 310px;
+    width: 300px;
+    text-align: center;
+    background-color: #efefef;
+    box-shadow: 1px 2px #cccccc;}
+
+img.anonym {
+    height: 80px;
+    width: 80px;}
+
+.balken {
+    height: 25px;
+    width: 270px;
+    color: #777777;
+    border-color: white;
+    border-top: 1.8px solid #999999;
+    border-left: 1.8px solid #999999;
+    border-radius: 5px 0px 0px 5px;}
+
+
+.knopf {
+    position: relative;
+    top: -10px;
+    height: 40px;
+    width: 270px;
+    font-size: 15px;
+    box-size: border-box;
+    border-radius: 7px 7px 7px 7px;
+    background-color: #5566ff;
+    color: white;}
+
+.link {
+    position: absolute;
+    width: 100%;
+    top: 543px;
+    text-align: center;}
